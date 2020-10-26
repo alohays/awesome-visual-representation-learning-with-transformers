@@ -7,6 +7,12 @@
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019
   - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
   - [[paper]](https://arxiv.org/abs/1810.04805) [[offficial code]](https://github.com/google-research/bert) [[huggingface/transformers]](https://github.com/huggingface/transformers)
+  
+## Combining CNN with self-attention
+- Attention augmented convolutional networks, ICCV 2019, image classification
+- End-to-end object detection with transformers, ECCV 2020, object detection
+- Videobert: A joint model for video and language representation learning, ICCV 2019, video processing
+- Visual transformers, arxiv 2020, image classification
 
 ## Stand-alone transformers for Computer Vision
 ### Self-attention only in local neighborhood
@@ -22,12 +28,6 @@
 ### Global self-attention with image preprocessing
 - Generative pretraining from pixels, ICML 2020, iGPT
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020, ViT
-
-## Combining CNN with self-attention
-- Attention augmented convolutional networks, ICCV 2019, image classification
-- End-to-end object detection with transformers, ECCV 2020, object detection
-- Videobert: A joint model for video and language representation learning, ICCV 2019, video processing
-- Visual transformers, arxiv 2020, image classification
 
 ## Unified text-vision tasks
 ### Focused on VQA
