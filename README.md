@@ -38,12 +38,24 @@
   - [[paper]](https://arxiv.org/abs/2004.13621) [[official code]](https://github.com/hszhao/SAN)
 ### Scalable approximations to global self-attention
 - Generating long sequences with sparse transformers, arXiv 2019
+  - Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever
+  - [[paper]](https://arxiv.org/abs/1904.10509) [[official code]](https://github.com/openai/sparse_attention)
 - Scaling autoregressive video models, ICLR 2019
+  - Dirk Weissenborn, Oscar Täckström, Jakob Uszkoreit
+  - [[paper]](https://arxiv.org/abs/1906.02634) 
 - Axial attention in multidimensional transformers, arXiv 2019
+  - Jonathan Ho, Nal Kalchbrenner, Dirk Weissenborn, Tim Salimans
+  - [[paper]](https://arxiv.org/abs/1912.12180) [[pytorch implementation]](https://github.com/lucidrains/axial-attention)
 - Axial-deeplab: Stand-alone axial-attention for panoptic segmentation, ECCV 2020
+  - Huiyu Wang, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille, Liang-Chieh Chen
+  - [[paper]](https://arxiv.org/abs/2003.07853) [[pytorch implementation]](https://github.com/csrhddlam/axial-deeplab)
 ### Global self-attention with image preprocessing
 - Generative pretraining from pixels, ICML 2020, iGPT
+  - Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever
+  - [[paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[official code]](https://github.com/openai/image-gpt)
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020, ViT
+  - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
+  - [[paper]](https://arxiv.org/abs/2010.11929) [[pytorch implementation]](https://github.com/lucidrains/vit-pytorch)
 
 ## Unified text-vision tasks
 ### Focused on VQA
