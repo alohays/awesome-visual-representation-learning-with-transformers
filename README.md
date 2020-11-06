@@ -18,7 +18,7 @@
 - Videobert: A joint model for video and language representation learning, ICCV 2019, video processing
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid
   - [[paper]](https://arxiv.org/abs/1904.01766)
-- Visual Transformers: Token-based Image Representation and Processing for Computer Vision, arxiv 2020, image classification
+- Visual Transformers: Token-based Image Representation and Processing for Computer Vision, arXiv 2020, image classification
   - Bichen Wu, Chenfeng Xu, Xiaoliang Dai, Alvin Wan, Peizhao Zhang, Masayoshi Tomizuka, Kurt Keutzer, Peter Vajda
   - [[paper]](https://arxiv.org/abs/2006.03677)
 
@@ -53,11 +53,44 @@
 - Generative pretraining from pixels, ICML 2020, iGPT
   - Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever
   - [[paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[official code]](https://github.com/openai/image-gpt)
-- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020, ViT
+- **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020, ViT**
   - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
   - [[paper]](https://arxiv.org/abs/2010.11929) [[pytorch implementation]](https://github.com/lucidrains/vit-pytorch)
 
 ## Unified text-vision tasks
 ### Focused on VQA
+- ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks, NeurIPS 2019
+  - Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee
+  - [[paper]](https://arxiv.org/abs/1908.02265) [[official code]](https://github.com/facebookresearch/vilbert-multi-task)
+- LXMERT: Learning Cross-Modality Encoder Representations from Transformers, EMNLP 2019
+  - Hao Tan, Mohit Bansal
+  - [[paper]](https://arxiv.org/abs/1908.07490) [[official code]](https://github.com/airsplay/lxmert)
+- VisualBERT: A Simple and Performant Baseline for Vision and Language, arXiv 2019
+  - Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang
+  - [[paper]](https://arxiv.org/abs/1908.03557) [[official code]](https://github.com/uclanlp/visualbert)
+- VL-BERT: Pre-training of Generic Visual-Linguistic Representations, ICLR 2020
+  - Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai
+  - [[paper]](https://arxiv.org/abs/1908.08530) [[official code]](https://github.com/jackroos/VL-BERT)
+- UNITER: UNiversal Image-TExt Representation Learning, ECCV 2020
+  - Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu
+  - [[paper]](https://arxiv.org/abs/1909.11740) [[official code]](https://github.com/ChenRocks/UNITER)
+
 ### Focused on Image Retrieval
+- Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training, AAAI 2020
+  - Gen Li, Nan Duan, Yuejian Fang, Ming Gong, Daxin Jiang, Ming Zhou
+  - [[paper]](https://arxiv.org/abs/1908.06066) [[official code]](https://github.com/microsoft/Unicoder)
+- ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data, arXiv 2020
+  - Di Qi, Lin Su, Jia Song, Edward Cui, Taroon Bharti, Arun Sacheti
+  - [[paper]](https://arxiv.org/abs/2001.07966)
+- Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks, ECCV 2020
+  - Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, Jianfeng Gao
+  - [[paper]](https://arxiv.org/abs/2004.06165) [[official code]](https://github.com/microsoft/Oscar)
 ### Focused on OCR
+- LayoutLM: Pre-training of Text and Layout for Document Image Understanding
+  - Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou
+  - [[paper]](https://arxiv.org/abs/1912.13318) [[official code]](https://github.com/microsoft/unilm/tree/master/layoutlm)
+
+### Multi-Task
+- 12-in-1: Multi-Task Vision and Language Representation Learning
+  - Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee
+  - [[paper]](https://arxiv.org/abs/1912.02315) [[official code]](https://github.com/facebookresearch/vilbert-multi-task)
