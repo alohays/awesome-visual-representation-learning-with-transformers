@@ -1,4 +1,4 @@
-# Awesome Visual Representation Learning with Transformers
+# Awesome Visual Representation Learning with Transformers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## About transformers
 - Attention Is All You Need, NeurIPS 2017
@@ -14,13 +14,28 @@
   - [[paper]](https://arxiv.org/abs/1904.09925) [[pytorch implementation]](https://github.com/leaderj1001/Attention-Augmented-Conv2d)
 - End-to-end object detection with transformers, ECCV 2020, object detection
   - Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
-  - [[paper]](https://arxiv.org/abs/2005.12872) [[official code]](https://github.com/facebookresearch/detr)
+  - [[paper]](https://arxiv.org/abs/2005.12872) [[official code]](https://github.com/facebookresearch/detr) [[detectron2 implementation]](https://github.com/poodarchu/DETR.detectron2)
 - Videobert: A joint model for video and language representation learning, ICCV 2019, video processing
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid
   - [[paper]](https://arxiv.org/abs/1904.01766)
 - Visual Transformers: Token-based Image Representation and Processing for Computer Vision, arXiv 2020, image classification
   - Bichen Wu, Chenfeng Xu, Xiaoliang Dai, Alvin Wan, Peizhao Zhang, Masayoshi Tomizuka, Kurt Keutzer, Peter Vajda
   - [[paper]](https://arxiv.org/abs/2006.03677)
+- Feature Pyramid Transformer, ECCV 2020, detection and segmentation
+  - Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun
+  - [[paper]](http://arxiv.org/abs/2007.09451) [[official code]](https://github.com/ZHANGDONG-NJUST/FPT)
+- Deformable DETR: Deformable Transformers for End-to-End Object Detection, arXiv 2020, object detection
+  - Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai
+  - [[paper]](http://arxiv.org/abs/2010.04159) [[official code clip]](https://github.com/Windaway/Deformable-Attention-for-Deformable-DETR)
+- Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, arXiv 2020, depth estimation
+  - Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, and Mathias Unberath
+  - [[paper]](http://arxiv.org/abs/2011.02910) [[official code]](https://github.com/mli0603/stereo-transformer.)
+- End-to-end Lane Shape Prediction with Transformers, arXiv 2020, lane detection
+  - Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong
+  - [[paper]](http://arxiv.org/abs/2011.04233) [[official code]](https://github.com/liuruijin17/LSTR)
+- End-to-End Object Detection with Adaptive Clustering Transformer, arXiv 2020, object detection
+  - Minghang Zheng, Peng Gao, Xiaogang Wang, Hongsheng Li, Hao Dong
+  - [[paper]](http://arxiv.org/abs/2011.09315)
 
 ## Stand-alone transformers for Computer Vision
 ### Self-attention only in local neighborhood
