@@ -1,4 +1,4 @@
-# Awesome Visual Representation Learning with Transformers
+# Awesome Visual Representation Learning with Transformers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## About transformers
 - Attention Is All You Need, NeurIPS 2017
