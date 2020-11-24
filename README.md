@@ -1,5 +1,7 @@
 # Awesome Visual Representation Learning with Transformers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Awesome Transformers (self-attention) in Computer Vision
+
 ## About transformers
 - Attention Is All You Need, NeurIPS 2017
   - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
@@ -15,6 +17,9 @@
 - End-to-end object detection with transformers, ECCV 2020, object detection
   - Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
   - [[paper]](https://arxiv.org/abs/2005.12872) [[official code]](https://github.com/facebookresearch/detr) [[detectron2 implementation]](https://github.com/poodarchu/DETR.detectron2)
+- Self-Attention Generative Adversarial Networks, ICML 2019, generative model(GANs)
+  - Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena
+  - [[paper]](https://arxiv.org/abs/1805.08318) [[official code]](https://github.com/heykeetae/Self-Attention-GAN)
 - Videobert: A joint model for video and language representation learning, ICCV 2019, video processing
   - Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid
   - [[paper]](https://arxiv.org/abs/1904.01766)
