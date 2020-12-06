@@ -9,7 +9,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019
   - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
   - [[paper]](https://arxiv.org/abs/1810.04805) [[offficial code]](https://github.com/google-research/bert) [[huggingface/transformers]](https://github.com/huggingface/transformers)
-  
+- Efficient Transformers: A Survey, arXiv 2020
+  - Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
+  - [[paper]](https://arxiv.org/abs/2009.06732)
 ## Combining CNN with self-attention
 - Attention augmented convolutional networks, ICCV 2019, image classification
   - Irwan Bello, Barret Zoph, Ashish Vaswani, Jonathon Shlens, Quoc V. Le
@@ -43,6 +45,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - End-to-End Object Detection with Adaptive Clustering Transformer, arXiv 2020, object detection
   - Minghang Zheng, Peng Gao, Xiaogang Wang, Hongsheng Li, Hao Dong
   - [[paper]](http://arxiv.org/abs/2011.09315)
+- UP-DETR: Unsupervised Pre-training for Object Detection with Transformers, arXiv 2020, object detection
+  - Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen
+  - [[paper]](http://arxiv.org/abs/2011.09094)
 
 
 ## Stand-alone transformers for Computer Vision
@@ -79,6 +84,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020, ViT**
   - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
   - [[paper]](https://arxiv.org/abs/2010.11929) [[pytorch implementation]](https://github.com/lucidrains/vit-pytorch)
+- Pre-Trained Image Processing Transformer, arXiv, IPT
+  - Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao
+  - [[paper]](http://arxiv.org/abs/2012.00364)
 
 ## Unified text-vision tasks
 ### Focused on VQA
