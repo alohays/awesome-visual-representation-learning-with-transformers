@@ -9,14 +9,13 @@ Awesome Transformers (self-attention) in Computer Vision
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL 2019
   - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
   - [[paper]](https://arxiv.org/abs/1810.04805) [[offficial code]](https://github.com/google-research/bert) [[huggingface/transformers]](https://github.com/huggingface/transformers)
-  
+- Efficient Transformers: A Survey, arXiv 2020
+  - Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
+  - [[paper]](https://arxiv.org/abs/2009.06732)
 ## Combining CNN with self-attention
 - Attention augmented convolutional networks, ICCV 2019, image classification
   - Irwan Bello, Barret Zoph, Ashish Vaswani, Jonathon Shlens, Quoc V. Le
   - [[paper]](https://arxiv.org/abs/1904.09925) [[pytorch implementation]](https://github.com/leaderj1001/Attention-Augmented-Conv2d)
-- End-to-end object detection with transformers, ECCV 2020, object detection
-  - Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
-  - [[paper]](https://arxiv.org/abs/2005.12872) [[official code]](https://github.com/facebookresearch/detr) [[detectron2 implementation]](https://github.com/poodarchu/DETR.detectron2)
 - Self-Attention Generative Adversarial Networks, ICML 2019, generative model(GANs)
   - Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena
   - [[paper]](https://arxiv.org/abs/1805.08318) [[official code]](https://github.com/heykeetae/Self-Attention-GAN)
@@ -29,18 +28,27 @@ Awesome Transformers (self-attention) in Computer Vision
 - Feature Pyramid Transformer, ECCV 2020, detection and segmentation
   - Dong Zhang, Hanwang Zhang, Jinhui Tang, Meng Wang, Xiansheng Hua, Qianru Sun
   - [[paper]](http://arxiv.org/abs/2007.09451) [[official code]](https://github.com/ZHANGDONG-NJUST/FPT)
-- Deformable DETR: Deformable Transformers for End-to-End Object Detection, arXiv 2020, object detection
-  - Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai
-  - [[paper]](http://arxiv.org/abs/2010.04159) [[official code clip]](https://github.com/Windaway/Deformable-Attention-for-Deformable-DETR)
 - Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective with Transformers, arXiv 2020, depth estimation
   - Zhaoshuo Li, Xingtong Liu, Francis X. Creighton, Russell H. Taylor, and Mathias Unberath
-  - [[paper]](http://arxiv.org/abs/2011.02910) [[official code]](https://github.com/mli0603/stereo-transformer.)
+  - [[paper]](http://arxiv.org/abs/2011.02910) [[official code]](https://github.com/mli0603/stereo-transformer)
 - End-to-end Lane Shape Prediction with Transformers, arXiv 2020, lane detection
   - Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong
   - [[paper]](http://arxiv.org/abs/2011.04233) [[official code]](https://github.com/liuruijin17/LSTR)
+
+### DETR Family
+- End-to-end object detection with transformers, ECCV 2020, object detection
+  - Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
+  - [[paper]](https://arxiv.org/abs/2005.12872) [[official code]](https://github.com/facebookresearch/detr) [[detectron2 implementation]](https://github.com/poodarchu/DETR.detectron2)
+- Deformable DETR: Deformable Transformers for End-to-End Object Detection, arXiv 2020, object detection
+  - Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai
+  - [[paper]](http://arxiv.org/abs/2010.04159) [[official code]](https://github.com/fundamentalvision/Deformable-DETR)
 - End-to-End Object Detection with Adaptive Clustering Transformer, arXiv 2020, object detection
   - Minghang Zheng, Peng Gao, Xiaogang Wang, Hongsheng Li, Hao Dong
   - [[paper]](http://arxiv.org/abs/2011.09315)
+- UP-DETR: Unsupervised Pre-training for Object Detection with Transformers, arXiv 2020, object detection
+  - Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen
+  - [[paper]](http://arxiv.org/abs/2011.09094)
+
 
 ## Stand-alone transformers for Computer Vision
 ### Self-attention only in local neighborhood
@@ -76,6 +84,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020, ViT**
   - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
   - [[paper]](https://arxiv.org/abs/2010.11929) [[pytorch implementation]](https://github.com/lucidrains/vit-pytorch)
+- Pre-Trained Image Processing Transformer, arXiv, IPT
+  - Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao
+  - [[paper]](http://arxiv.org/abs/2012.00364)
 
 ## Unified text-vision tasks
 ### Focused on VQA
