@@ -12,6 +12,7 @@ Awesome Transformers (self-attention) in Computer Vision
 - Efficient Transformers: A Survey, arXiv 2020
   - Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
   - [[paper]](https://arxiv.org/abs/2009.06732)
+
 ## Combining CNN with self-attention
 - Attention augmented convolutional networks, ICCV 2019, image classification
   - Irwan Bello, Barret Zoph, Ashish Vaswani, Jonathon Shlens, Quoc V. Le
@@ -34,7 +35,6 @@ Awesome Transformers (self-attention) in Computer Vision
 - End-to-end Lane Shape Prediction with Transformers, arXiv 2020, lane detection
   - Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong
   - [[paper]](http://arxiv.org/abs/2011.04233) [[official code]](https://github.com/liuruijin17/LSTR)
-
 ### DETR Family
 - End-to-end object detection with transformers, ECCV 2020, object detection
   - Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
@@ -48,7 +48,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - UP-DETR: Unsupervised Pre-training for Object Detection with Transformers, arXiv 2020, object detection
   - Zhigang Dai, Bolun Cai, Yugeng Lin, Junying Chen
   - [[paper]](http://arxiv.org/abs/2011.09094)
-
+- DETR for Pedestrian Detection, arXiv 2020, pedestrian detection
+  - Matthieu Lin, Chuming Li, Xingyuan Bu, Ming Sun, Chen Lin, Junjie Yan, Wanli Ouyang, Zhidong Deng
+  - [[paper]](http://arxiv.org/abs/2012.06785)
 
 ## Stand-alone transformers for Computer Vision
 ### Self-attention only in local neighborhood
@@ -87,6 +89,10 @@ Awesome Transformers (self-attention) in Computer Vision
 - Pre-Trained Image Processing Transformer, arXiv, IPT
   - Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao
   - [[paper]](http://arxiv.org/abs/2012.00364)
+### Global self-attention on 3D point clouds
+- Point Transformer, arXiv 2020, points classification + part/semantic segmentation
+  - Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun
+  - [[paper]](http://arxiv.org/abs/2011.00931)
 
 ## Unified text-vision tasks
 ### Focused on VQA
