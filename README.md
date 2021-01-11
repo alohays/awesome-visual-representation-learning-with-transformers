@@ -12,6 +12,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - Efficient Transformers: A Survey, arXiv 2020
   - Yi Tay, Mostafa Dehghani, Dara Bahri, Donald Metzler
   - [[paper]](https://arxiv.org/abs/2009.06732)
+- A Survey on Visual Transformer, arXiv 2020
+  - Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao
+  - [[paper]](https://arxiv.org/abs/2012.12556)
 
 ## Combining CNN with self-attention
 - Attention augmented convolutional networks, ICCV 2019, image classification
