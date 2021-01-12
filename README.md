@@ -38,6 +38,14 @@ Awesome Transformers (self-attention) in Computer Vision
 - End-to-end Lane Shape Prediction with Transformers, arXiv 2020, lane detection
   - Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong
   - [[paper]](http://arxiv.org/abs/2011.04233) [[official code]](https://github.com/liuruijin17/LSTR)
+- Taming Transformers for High-Resolution Image Synthesis, arXiv 2020, image synthesis
+
+  - Patrick Esser, Robin Rombach, Bjorn Ommer
+  - [[paper]](http://arxiv.org/abs/2012.09841)[[official code]](https://github.com/CompVis/taming-transformers)
+- TransPose: Towards Explainable Human Pose Estimation by Transformer, arXiv 2020, pose estimation
+  - Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang
+  - [[paper]](https://arxiv.org/abs/2012.14214)
+
 ### DETR Family
 - End-to-end object detection with transformers, ECCV 2020, object detection
   - Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
@@ -82,6 +90,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - Axial-deeplab: Stand-alone axial-attention for panoptic segmentation, ECCV 2020
   - Huiyu Wang, Yukun Zhu, Bradley Green, Hartwig Adam, Alan Yuille, Liang-Chieh Chen
   - [[paper]](https://arxiv.org/abs/2003.07853) [[pytorch implementation]](https://github.com/csrhddlam/axial-deeplab)
+- MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers, arXiv 2020
+  - Huiyu Wang, Yukun Zhu, Hartwig Adam, Alan Yuille, Liang-Chieh Chen
+  - [[paper]](http://arxiv.org/abs/2012.00759)
 ### Global self-attention with image preprocessing
 - Generative pretraining from pixels, ICML 2020, iGPT
   - Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever
@@ -92,6 +103,12 @@ Awesome Transformers (self-attention) in Computer Vision
 - Pre-Trained Image Processing Transformer, arXiv, IPT
   - Hanting Chen, Yunhe Wang, Tianyu Guo, Chang Xu, Yiping Deng, Zhenhua Liu, Siwei Ma, Chunjing Xu, Chao Xu, Wen Gao
   - [[paper]](http://arxiv.org/abs/2012.00364)
+- Training data-efficient image transformers & distillation through attention, arXiv 2020, DeiT
+  - Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Herve Jegou
+  - [[paper]](http://arxiv.org/abs/2012.12877)[[official code]](https://github.com/facebookresearch/deit)
+- Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, arXiv 2020, SETR
+  - Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang
+  - [[paper]](http://arxiv.org/abs/2012.15840)[[official code]](https://fudan-zvg.github.io/SETR)
 ### Global self-attention on 3D point clouds
 - Point Transformer, arXiv 2020, points classification + part/semantic segmentation
   - Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun
