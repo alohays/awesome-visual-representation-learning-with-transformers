@@ -39,7 +39,6 @@ Awesome Transformers (self-attention) in Computer Vision
   - Ruijin Liu, Zejian Yuan, Tie Liu, Zhiliang Xiong
   - [[paper]](http://arxiv.org/abs/2011.04233) [[official code]](https://github.com/liuruijin17/LSTR)
 - Taming Transformers for High-Resolution Image Synthesis, arXiv 2020, image synthesis
-
   - Patrick Esser, Robin Rombach, Bjorn Ommer
   - [[paper]](http://arxiv.org/abs/2012.09841)[[official code]](https://github.com/CompVis/taming-transformers)
 - TransPose: Towards Explainable Human Pose Estimation by Transformer, arXiv 2020, pose estimation
