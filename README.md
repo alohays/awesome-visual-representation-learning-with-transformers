@@ -44,6 +44,21 @@ Awesome Transformers (self-attention) in Computer Vision
 - TransPose: Towards Explainable Human Pose Estimation by Transformer, arXiv 2020, pose estimation
   - Sen Yang, Zhibin Quan, Mu Nie, Wankou Yang
   - [[paper]](https://arxiv.org/abs/2012.14214)
+- End-to-End Video Instance Segmentation with Transformers, arXiv 2020, video instance segmentation
+  - Yuqing Wang, Zhaoliang Xu, Xinlong Wang, Chunhua Shen, Baoshan Cheng, Hao Shen, Huaxia Xia
+  - [[paper]](https://arxiv.org/abs/2011.14503)
+- TransTrack: Multiple-Object Tracking with Transformer, arXiv 2020, MOT
+  - Peize Sun, Yi Jiang, Rufeng Zhang, Enze Xie, Jinkun Cao, Xinting Hu, Tao Kong, Zehuan Yuan, Changhu Wang, Ping Luo
+  - [[paper]](https://arxiv.org/abs/2012.15460)[[official code]](https://github.com/PeizeSun/TransTrack)
+- TrackFormer: Multi-Object Tracking with Transformers, arXiv 2020, MOT
+  - Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer
+  - [[paper]](https://arxiv.org/abs/2101.02702)
+- Line Segment Detection Using Transformers without Edges, arXiv 2020, line segmentation
+  - Yifan Xu, Weijian Xu, David Cheung, Zhuowen Tu
+  - [[paper]](https://arxiv.org/abs/2101.01909)
+- Segmenting Transparent Object in the Wild with Transformer, arXiv 2020, transparent object segmentation
+  - Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo
+  - [[paper]](https://arxiv.org/abs/2101.08461)[[official code]](https://github.com/xieenze/Trans2Seg)
 
 ### DETR Family
 - End-to-end object detection with transformers, ECCV 2020, object detection
