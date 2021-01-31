@@ -50,15 +50,18 @@ Awesome Transformers (self-attention) in Computer Vision
 - TransTrack: Multiple-Object Tracking with Transformer, arXiv 2020, MOT
   - Peize Sun, Yi Jiang, Rufeng Zhang, Enze Xie, Jinkun Cao, Xinting Hu, Tao Kong, Zehuan Yuan, Changhu Wang, Ping Luo
   - [[paper]](https://arxiv.org/abs/2012.15460)[[official code]](https://github.com/PeizeSun/TransTrack)
-- TrackFormer: Multi-Object Tracking with Transformers, arXiv 2020, MOT
+- TrackFormer: Multi-Object Tracking with Transformers, arXiv 2021, MOT
   - Tim Meinhardt, Alexander Kirillov, Laura Leal-Taixe, Christoph Feichtenhofer
   - [[paper]](https://arxiv.org/abs/2101.02702)
-- Line Segment Detection Using Transformers without Edges, arXiv 2020, line segmentation
+- Line Segment Detection Using Transformers without Edges, arXiv 2021, line segmentation
   - Yifan Xu, Weijian Xu, David Cheung, Zhuowen Tu
   - [[paper]](https://arxiv.org/abs/2101.01909)
-- Segmenting Transparent Object in the Wild with Transformer, arXiv 2020, transparent object segmentation
+- Segmenting Transparent Object in the Wild with Transformer, arXiv 2021, transparent object segmentation
   - Enze Xie, Wenjia Wang, Wenhai Wang, Peize Sun, Hang Xu, Ding Liang, Ping Luo
   - [[paper]](https://arxiv.org/abs/2101.08461)[[official code]](https://github.com/xieenze/Trans2Seg)
+- Bottleneck Transformers for Visual Recognition, arXiv 2021, backbone design
+  - Aravind Srinivas, Tsung-Yi Lin, Niki Parmar, Jonathon Shlens, Pieter Abbeel, Ashish Vaswani
+  - [[paper]](http://arxiv.org/abs/2101.11605)
 
 ### DETR Family
 - End-to-end object detection with transformers, ECCV 2020, object detection
@@ -123,6 +126,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers, arXiv 2020, SETR
   - Sixiao Zheng, Jiachen Lu, Hengshuang Zhao, Xiatian Zhu, Zekun Luo, Yabiao Wang, Yanwei Fu, Jianfeng Feng, Tao Xiang, Philip H.S. Torr, Li Zhang
   - [[paper]](http://arxiv.org/abs/2012.15840)[[official code]](https://fudan-zvg.github.io/SETR)
+- Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, arXiv 2021, T2T-ViT
+  - Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Francis EH Tay, Jiashi Feng, Shuicheng Yan
+  - [[paper]](http://arxiv.org/abs/2101.11986)[[official code]](https://github.com/yitu-opensource/T2T-ViT)
 ### Global self-attention on 3D point clouds
 - Point Transformer, arXiv 2020, points classification + part/semantic segmentation
   - Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun
@@ -160,6 +166,13 @@ Awesome Transformers (self-attention) in Computer Vision
 - LayoutLM: Pre-training of Text and Layout for Document Image Understanding
   - Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou
   - [[paper]](https://arxiv.org/abs/1912.13318) [[official code]](https://github.com/microsoft/unilm/tree/master/layoutlm)
+
+### Focused on Image Captioning
+
+- CPTR: Full Transformer Network for Image Captioning, arXiv 2021
+  - Wei Liu, Sihan Chen, Longteng Guo, Xinxin Zhu, Jing Liu
+  - [[paper]](http://arxiv.org/abs/2101.10804)
+
 
 ### Multi-Task
 - 12-in-1: Multi-Task Vision and Language Representation Learning
