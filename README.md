@@ -151,6 +151,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - UNITER: UNiversal Image-TExt Representation Learning, ECCV 2020
   - Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu
   - [[paper]](https://arxiv.org/abs/1909.11740) [[official code]](https://github.com/ChenRocks/UNITER)
+- ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision
+  - Wonjae Kim, Bokyung Son, Ildoo Kim
+  - [[paper]](https://arxiv.org/abs/2102.03334)
 
 ### Focused on Image Retrieval
 - Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training, AAAI 2020
