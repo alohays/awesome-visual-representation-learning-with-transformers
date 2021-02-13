@@ -67,7 +67,7 @@ Awesome Transformers (self-attention) in Computer Vision
 - End-to-end object detection with transformers, ECCV 2020, object detection
   - Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko
   - [[paper]](https://arxiv.org/abs/2005.12872) [[official code]](https://github.com/facebookresearch/detr) [[detectron2 implementation]](https://github.com/poodarchu/DETR.detectron2)
-- Deformable DETR: Deformable Transformers for End-to-End Object Detection, arXiv 2020, object detection
+- Deformable DETR: Deformable Transformers for End-to-End Object Detection, ICLR 2021, object detection
   - Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, Xiaogang Wang, Jifeng Dai
   - [[paper]](http://arxiv.org/abs/2010.04159) [[official code]](https://github.com/fundamentalvision/Deformable-DETR)
 - End-to-End Object Detection with Adaptive Clustering Transformer, arXiv 2020, object detection
@@ -114,7 +114,7 @@ Awesome Transformers (self-attention) in Computer Vision
 - Generative pretraining from pixels, ICML 2020, iGPT
   - Mark Chen, Alec Radford, Rewon Child, Jeff Wu, Heewoo Jun, Prafulla Dhariwal, David Luan, Ilya Sutskever
   - [[paper]](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf) [[official code]](https://github.com/openai/image-gpt)
-- **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, arXiv 2020, ViT**
+- **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale, ICLR 2021, ViT**
   - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
   - [[paper]](https://arxiv.org/abs/2010.11929) [[pytorch implementation]](https://github.com/lucidrains/vit-pytorch)
 - Pre-Trained Image Processing Transformer, arXiv, IPT
@@ -129,6 +129,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet, arXiv 2021, T2T-ViT
   - Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Francis EH Tay, Jiashi Feng, Shuicheng Yan
   - [[paper]](http://arxiv.org/abs/2101.11986)[[official code]](https://github.com/yitu-opensource/T2T-ViT)
+- TransReID: Transformer-based Object Re-Identification, arXiv 2021
+  - Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, Wei Jiang
+  - [[paper]](http://arxiv.org/abs/2102.04378)
 ### Global self-attention on 3D point clouds
 - Point Transformer, arXiv 2020, points classification + part/semantic segmentation
   - Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun
@@ -151,6 +154,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - UNITER: UNiversal Image-TExt Representation Learning, ECCV 2020
   - Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu
   - [[paper]](https://arxiv.org/abs/1909.11740) [[official code]](https://github.com/ChenRocks/UNITER)
+- Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers, arXiv 2020
+  - Zhicheng Huang, Zhaoyang Zeng, Bei Liu, Dongmei Fu, Jianlong Fu
+  - [[paper]](https://arxiv.org/abs/2004.00849)
 - ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision, arXiv 2021
   - Wonjae Kim, Bokyung Son, Ildoo Kim
   - [[paper]](https://arxiv.org/abs/2102.03334)
@@ -165,7 +171,11 @@ Awesome Transformers (self-attention) in Computer Vision
 - Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks, ECCV 2020
   - Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, Jianfeng Gao
   - [[paper]](https://arxiv.org/abs/2004.06165) [[official code]](https://github.com/microsoft/Oscar)
+- Training Vision Transformers for Image Retrieval, arXiv 2021
+  - Alaaeldin El-Nouby, Natalia Neverova, Ivan Laptev, Herve Jegou
+  - [[paper]](http://arxiv.org/abs/2102.05644)
 ### Focused on OCR
+
 - LayoutLM: Pre-training of Text and Layout for Document Image Understanding
   - Yiheng Xu, Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou
   - [[paper]](https://arxiv.org/abs/1912.13318) [[official code]](https://github.com/microsoft/unilm/tree/master/layoutlm)
