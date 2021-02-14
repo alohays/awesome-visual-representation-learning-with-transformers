@@ -15,7 +15,7 @@ Awesome Transformers (self-attention) in Computer Vision
 - A Survey on Visual Transformer, arXiv 2020
   - Kai Han, Yunhe Wang, Hanting Chen, Xinghao Chen, Jianyuan Guo, Zhenhua Liu, Yehui Tang, An Xiao, Chunjing Xu, Yixing Xu, Zhaohui Yang, Yiman Zhang, Dacheng Tao
   - [[paper]](https://arxiv.org/abs/2012.12556)
-- Transformers in Vision: A Survey
+- Transformers in Vision: A Survey, arXiv 2021
   - Salman Khan, Muzammal Naseer, Munawar Hayat, Syed Waqas Zamir, Fahad Shahbaz Khan, Mubarak Shah
   - [[paper]](https://arxiv.org/abs/2101.01169)
 
