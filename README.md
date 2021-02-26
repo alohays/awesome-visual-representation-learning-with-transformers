@@ -135,6 +135,9 @@ Awesome Transformers (self-attention) in Computer Vision
 - TransReID: Transformer-based Object Re-Identification, arXiv 2021
   - Shuting He, Hao Luo, Pichao Wang, Fan Wang, Hao Li, Wei Jiang
   - [[paper]](http://arxiv.org/abs/2102.04378)
+- Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions
+  - Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao
+  - [[paper]](https://arxiv.org/abs/2102.12122)[[official code]](https://github.com/whai362/PVT)
 ### Global self-attention on 3D point clouds
 - Point Transformer, arXiv 2020, points classification + part/semantic segmentation
   - Hengshuang Zhao, Li Jiang, Jiaya Jia, Philip Torr, Vladlen Koltun
