@@ -202,7 +202,7 @@ Awesome Transformers (self-attention) in Computer Vision
   - Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee
   - [[paper]](https://arxiv.org/abs/1912.02315) [[official code]](https://github.com/facebookresearch/vilbert-multi-task)
 - MJev-Spatial: System One Spatial Intelligence via Native Attention Matching, arXiv 2026
-  - Yuhan Zhu et al.
+  - Luozheng Qin, Yuhan Zhu, et al.
   - [[paper]](https://arxiv.org/abs/2610.22276) [[official code]](https://github.com/Fr0zenCrane/MJev-Spatial)
 - VideoJev: System One Model for Video Understanding and Interaction, arXiv 2026
   - Yuhan Zhu et al.
