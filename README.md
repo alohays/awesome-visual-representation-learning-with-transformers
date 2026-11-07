@@ -83,6 +83,10 @@ Awesome Transformers (self-attention) in Computer Vision
   - Matthieu Lin, Chuming Li, Xingyuan Bu, Ming Sun, Chen Lin, Junjie Yan, Wanli Ouyang, Zhidong Deng
   - [[paper]](http://arxiv.org/abs/2012.06785)
 
+- Dual DETRs for Multi-Label Temporal Action Detection, CVPR 2024, temporal action detection
+  - Yuhan Zhu, Guozhen Zhang, Jing Tan, Gangshan Wu, Limin Wang
+  - [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html)
+
 ## Stand-alone transformers for Computer Vision
 ### Self-attention only in local neighborhood
 - Image Transformer, ICML 2018
@@ -197,3 +201,15 @@ Awesome Transformers (self-attention) in Computer Vision
 - 12-in-1: Multi-Task Vision and Language Representation Learning
   - Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee
   - [[paper]](https://arxiv.org/abs/1912.02315) [[official code]](https://github.com/facebookresearch/vilbert-multi-task)
+- MJev-Spatial: System One Spatial Intelligence via Native Attention Matching, arXiv 2026
+  - Luozheng Qin, Yuhan Zhu, et al.
+  - [[paper]](https://arxiv.org/abs/2610.22276) [[official code]](https://github.com/Fr0zenCrane/MJev-Spatial)
+- VideoJev: System One Model for Video Understanding and Interaction, arXiv 2026
+  - Yuhan Zhu et al.
+  - [[paper]](https://arxiv.org/abs/2610.18615) [[official code]](https://github.com/MCG-NJU/VideoJev)
+- VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding, arXiv 2026
+  - Xinhao Li, Yuhan Zhu, et al.
+  - [[paper]](https://arxiv.org/abs/2607.14935) [[official code]](https://github.com/MCG-NJU/VideoChat3)
+- Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning, ICML 2026
+  - Xiangyu Zeng, Yuhan Zhu, et al.
+  - [[paper]](https://proceedings.mlr.press/v306/zeng26y.html) [[official code]](https://github.com/MCG-NJU/Video-o3)
